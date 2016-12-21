@@ -1,0 +1,2 @@
+# training
+initial training session
